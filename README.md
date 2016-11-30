@@ -1,0 +1,1 @@
+# lara-schema-templates
